@@ -1,0 +1,6 @@
+C:\Users\Oliver\source\repos\ManagR\ManagR.EntityFramework\bin\Debug\netstandard2.0\ManagR.EntityFramework.deps.json
+C:\Users\Oliver\source\repos\ManagR\ManagR.EntityFramework\bin\Debug\netstandard2.0\ManagR.EntityFramework.dll
+C:\Users\Oliver\source\repos\ManagR\ManagR.EntityFramework\obj\Debug\netstandard2.0\ManagR.EntityFramework.csprojAssemblyReference.cache
+C:\Users\Oliver\source\repos\ManagR\ManagR.EntityFramework\obj\Debug\netstandard2.0\ManagR.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\source\repos\ManagR\ManagR.EntityFramework\obj\Debug\netstandard2.0\ManagR.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Oliver\source\repos\ManagR\ManagR.EntityFramework\obj\Debug\netstandard2.0\ManagR.EntityFramework.AssemblyInfo.cs

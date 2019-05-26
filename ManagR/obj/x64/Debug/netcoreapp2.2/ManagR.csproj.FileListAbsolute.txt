@@ -1,0 +1,15 @@
+C:\Users\Oliver\source\repos\ManagR\ManagR\bin\x64\Debug\netcoreapp2.2\ManagR.deps.json
+C:\Users\Oliver\source\repos\ManagR\ManagR\bin\x64\Debug\netcoreapp2.2\ManagR.runtimeconfig.json
+C:\Users\Oliver\source\repos\ManagR\ManagR\bin\x64\Debug\netcoreapp2.2\ManagR.runtimeconfig.dev.json
+C:\Users\Oliver\source\repos\ManagR\ManagR\bin\x64\Debug\netcoreapp2.2\ManagR.dll
+C:\Users\Oliver\source\repos\ManagR\ManagR\bin\x64\Debug\netcoreapp2.2\ManagR.pdb
+C:\Users\Oliver\source\repos\ManagR\ManagR\obj\x64\Debug\netcoreapp2.2\ManagR.csprojAssemblyReference.cache
+C:\Users\Oliver\source\repos\ManagR\ManagR\obj\x64\Debug\netcoreapp2.2\ManagR.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\source\repos\ManagR\ManagR\obj\x64\Debug\netcoreapp2.2\ManagR.RazorAssemblyInfo.cache
+C:\Users\Oliver\source\repos\ManagR\ManagR\obj\x64\Debug\netcoreapp2.2\ManagR.RazorAssemblyInfo.cs
+C:\Users\Oliver\source\repos\ManagR\ManagR\obj\x64\Debug\netcoreapp2.2\ManagR.AssemblyInfoInputs.cache
+C:\Users\Oliver\source\repos\ManagR\ManagR\obj\x64\Debug\netcoreapp2.2\ManagR.AssemblyInfo.cs
+C:\Users\Oliver\source\repos\ManagR\ManagR\obj\x64\Debug\netcoreapp2.2\ManagR.RazorTargetAssemblyInfo.cache
+C:\Users\Oliver\source\repos\ManagR\ManagR\obj\x64\Debug\netcoreapp2.2\ManagR.dll
+C:\Users\Oliver\source\repos\ManagR\ManagR\obj\x64\Debug\netcoreapp2.2\ManagR.pdb
+C:\Users\Oliver\source\repos\ManagR\ManagR\bin\x64\Debug\netcoreapp2.2\board.json

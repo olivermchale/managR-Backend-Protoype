@@ -1,0 +1,72 @@
+{
+  "stories": [
+    {
+      "title": "Finish sprint board",
+      "categories": {
+        "todo": {
+          "title": "To Do",
+          "tasks": [
+            {
+              "title": "Get to work",
+              "description": "Get in the car and drive to work"
+            },
+            {
+              "title": "Pick up groceries",
+              "description": "Get in the car and pick up groceries"
+            },
+            {
+              "title": "Get Changed",
+              "description": "Find clothes, get changed"
+            }
+          ]
+        },
+        "progress": {
+          "title": "In Progress",
+          "tasks": [
+            {
+              "title": "Have a shower",
+              "description": "Find towel, have a shower"
+            }
+          ]
+        },
+        "done": {
+          "title": "Done",
+          "tasks": [
+            {
+              "title": "Rough sketch of board",
+              "description": "Write unit tests"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Add task detail page",
+      "categories": {
+        "todo": {
+          "title": "To Do",
+          "tasks": [
+            {
+              "title": "Start sketch",
+              "description": "sketch of details page"
+            }
+          ]
+        },
+        "progress": {
+          "title": "In Progress",
+          "tasks": [
+            {
+              "title": "Think about starting sketch",
+              "description": "Think about it..."
+            }
+          ]
+        },
+        "done": {
+          "title": "Done",
+          "tasks": [
+          ]
+        }
+      }
+    }
+  ]
+}
